@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hola, soy Pool Rimari 👋
 
-<!--
-**Porico94/Porico94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack JavaScript Developer enfocado en React, Node.js y desarrollo de aplicaciones web modernas.
 
-Here are some ideas to get you started:
+Soy Bachiller en Ingeniería Mecatrónica y actualmente me especializo en desarrollo Fullstack con JavaScript, construyendo aplicaciones frontend y backend, herramientas CLI, SPAs y aplicaciones en tiempo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías principales
+
+* JavaScript (ES6+)
+* React
+* Redux Toolkit
+* Node.js
+* HTML5 / CSS3 / Bootstrap
+* REST APIs
+* WebSockets / Socket.io
+* Jest / Playwright
+* Git / GitHub
+* MySQL / SQL
+* Webpack
+
+## 📌 Proyectos destacados
+
+### Hexlet Chat
+
+Aplicación de chat en tiempo real con autenticación JWT, canales y mensajería instantánea.
+
+### RSS Aggregator
+
+Single Page Application que agrega múltiples feeds RSS con actualización automática y validación de formularios.
+
+### Page Loader
+
+Herramienta CLI que descarga páginas web completas y sus recursos locales.
+
+## 🎯 Actualmente
+
+Actualmente desarrollo proyectos personales enfocados en soluciones reales para negocios, incluyendo una plataforma web para un centro de terapias infantiles.
+
+## 📫 Contacto
+
+📧 [poolrimari@gmail.com](mailto:poolrimari@gmail.com)
+💼 LinkedIn: linkedin.com/in/poolrimari
+💻 GitHub: github.com/Porico94
